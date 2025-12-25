@@ -16,9 +16,9 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 
 ## 🔧 Steps Involved
 
-### 1. Data Cleaning & Preparation
-### 2. Exploratory Data Analysis (EDA)
-### 3. Key Insights from EDA
+# 1. Data Cleaning & Preparation
+## 2. Exploratory Data Analysis (EDA)
+## 3. Key Insights from EDA
 
 
 ## 📈 Dashboard Pages (Power BI)
