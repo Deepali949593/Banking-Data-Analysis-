@@ -3,8 +3,6 @@
 This project focuses on building an interactive **Banking Dashboard** using Power BI. It involves the complete data analysis — from data cleaning and transformation to exploratory data analysis (EDA) and visualization.
 
 
-
-
 ## 📌 Project Workflow
 
 Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI Dashboard
