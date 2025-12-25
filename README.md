@@ -2,27 +2,25 @@
 
 This project focuses on building an interactive **Banking Dashboard** using Power BI. It involves the complete data analysis — from data cleaning and transformation to exploratory data analysis (EDA) and visualization.
 
----
 
 ## 📌 Project Workflow
 
 Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI Dashboard
 
----
 
 ## 📊 Dataset Information
 
 - **Number of columns**: 24
 - **Stored in**: MySQL
 
----
 
 ## 🔧 Steps Involved
 
 ### 1. Data Cleaning & Preparation
 ### 2. Exploratory Data Analysis (EDA)
 ### 3. Key Insights from EDA
----
+
+
 ## 📈 Dashboard Pages (Power BI)
 
 1. **Home**
@@ -30,7 +28,6 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 3. **Deposit Analysis**
 4. **Summary**
 
----
 
 ## 🚀 Tools & Technologies
 
@@ -39,8 +36,6 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 - **Visualization**: Power BI
 - **Languages**: SQL, DAX (in Power BI)
 
----
-
 ## 🧠 Learnings
 
 - Data wrangling using SQL
@@ -48,7 +43,6 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 - Deriving insights through EDA
 - Building multi-page dashboards for presentation
 
----
 ### ✅ Page 1: Home  
 > Overview of the banking data with summary statistics and key visuals.  
 
