@@ -20,33 +20,9 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 ## 🔧 Steps Involved
 
 ### 1. Data Cleaning & Preparation
-
----
-
 ### 2. Exploratory Data Analysis (EDA)
-
-- Categorical analysis on:
-  - Gender
-  - Nationality
-- Numerical analysis on:
-  - Credit Card Balance
-  - Bank Loans
-  - Bank Deposits
-  - Checking Account
-  - Saving Account
-  - Estimated Income
-  - Superannuation Savings
-
----
-
 ### 3. Key Insights from EDA
-
-- Strong positive correlation between:
-  - `Bank Deposits`, `Checking Account`, `Saving Account`, and `Foreign Currency Account`.
-- Customers with high balance in one account type tend to hold substantial funds in other accounts as well.
-
 ---
-
 ## 📈 Dashboard Pages (Power BI)
 
 1. **Home**
